@@ -3,5 +3,5 @@ all:
 	ld -o $(source) $(source).o
 	rm *.o
 	./$(source)
-#	echo $?
-#	rm *.o
+
+
